@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# recipe-book
+This project is a React-based web application that allows users to search for recipes based on the ingredients they have. The app is beginner-friendly but also includes modern styling and animations, making it visually appealing and interactive.
+>>>>>>> 897ce3f19df131c2319d6e5565b5faeb25ca1a68
